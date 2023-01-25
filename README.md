@@ -3,7 +3,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
 <p align="justify">
-A Laravel & Flutter enthusiast with 3+ years experience in Web (Mainly using Laravel, Vue, Inertia) and 2+ years experience in Mobile App Development (Native Android and Flutter).
+A Laravel & Flutter enthusiast with 4+ years experience in Web (Mainly using Laravel, Vue, Inertia.js, and Tailwind CSS) and 3+ years experience in Mobile App Development (Native Android and Flutter).
 
 Let's connect!
 </p>

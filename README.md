@@ -16,7 +16,7 @@ Let's connect!
 
  ## ⭐ Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanaidilp&" alt="ryanaidilp" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ryanaidilp&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="ryanaidilp" /></p>
 
 
 

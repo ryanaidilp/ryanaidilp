@@ -18,6 +18,17 @@ Let's connect!
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=ryanaidilp&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="ryanaidilp" /></p>
 
+## 📃 Latest Articles
+
+<img align='right' src="https://media4.giphy.com/media/QGoxu7KIgMPvKFP3ze/giphy_s.gif" height="150px">
+
+<!-- BLOG-POST-LIST:START -->
+- [Improving Code Efficiency : Replace String Replacement with Dart String Interpolation](https://medium.com/@ryanaidilp/improving-code-efficiency-with-dart-string-interpolation-and-replacement-cf2f7b94580f)
+- [Migrating from GetX: Boosting Flutter App Development Efficiency — Part 1 : Architecture and Folder Structure](https://medium.com/@ryanaidilp/migrating-from-getx-boosting-flutter-app-development-efficiency-part-1-1a33fd44a3a9)
+- [Migrating from GetX: Boosting Flutter App Development Efficiency — Part 2 : Routing](https://medium.com/@ryanaidilp/migrating-from-getx-boosting-flutter-app-development-efficiency-part-2-routing-c146a09bc5fa)
+- [Migrating from GetX: Boosting Flutter App Development Efficiency — Part 3 : Dependency Injection](https://medium.com/@ryanaidilp/migrating-from-getx-boosting-flutter-app-development-efficiency-part-3-dependency-injection-50693e8fed2e)
+- [Proof of Concept (POC) : Kenapa Tidak Disarankan untuk Share Unsigned APK untuk Penggunaan Publik?](https://ryanaidilp.notion.site/Proof-of-Concept-POC-Kenapa-Tidak-Disarankan-untuk-Share-Unsigned-APK-untuk-Penggunaan-Publik-7d1ebbe3c83e4ffd904ed1de4808e0f7)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 🔍 You Can Find Me at

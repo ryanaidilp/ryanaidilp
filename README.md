@@ -3,7 +3,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
 <p align="justify">
-A Laravel & Flutter enthusiast with 4+ years experience in Web (Mainly using Laravel, Vue, Inertia.js, and Tailwind CSS) and 3+ years experience in Mobile App Development (Native Android and Flutter).
+Senior Flutter Developer with 5+ years of experience building and maintaining large-scale consumer mobile apps in fintech and healthcare, plus a background in Laravel/Vue web development. Focused on Flutter performance, Android/iOS integration, CI/CD, and monorepo tooling.
 
 Let's connect!
 </p>
@@ -18,16 +18,49 @@ Let's connect!
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=ryanaidilp&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="ryanaidilp" /></p>
 
+## 🚀 Building & Leading
+
+**[Banua Coder](https://banuacoder.com)** — I run this software agency out of Sulawesi Tengah, Indonesia, building production apps across fintech and civic tech:
+- [Trans Sulteng Tracker (cektrans)](https://github.com/banua-coder/trans_sulteng_tracker) — realtime public transit tracker for TransPalu/Trans Donggala BRT (Vue 3 + Rust), live at [cektrans.banuacoder.com](https://cektrans.banuacoder.com)
+- Plus a fintech budgeting app (Flutter + Go), an internal Flutter project generator, and an OTel-based telemetry service — private repos, happy to walk through on request
+
+**[IPDS-59](https://github.com/IPDS-59)** — I lead the developer group for my Politeknik Statistika STIS cohort (Batch 59), building [stadata_js](https://github.com/IPDS-59/stadata_js) (official TypeScript/JavaScript SDK for Indonesia's BPS Statistics API) and internal data-collection tooling for our alma mater.
+
+## 🏆 Featured Projects
+
+| Project | Stack | Stars | What it is |
+|---|---|---|---|
+| [sistem_absensi_pegawai](https://github.com/ryanaidilp/sistem_absensi_pegawai) | Laravel · Vue · Inertia.js · Tailwind | ⭐ 228 | Web-based employee attendance & QR check-in system |
+| [sistem_absensi_pegawai_app](https://github.com/ryanaidilp/sistem_absensi_pegawai_app) | Flutter | ⭐ 204 | Mobile companion app for the attendance system above |
+| [stadata_flutter_sdk](https://github.com/ryanaidilp/stadata_flutter_sdk) | Flutter/Dart · [pub.dev](https://pub.dev/packages/stadata_flutter_sdk) | ⭐ 19 | Flutter SDK for Indonesia's official BPS Statistics API — 140/160 pub points, published under `hacktoberfest` |
+| [PICO_SULTENG_FLUTTER](https://github.com/ryanaidilp/PICO_SULTENG_FLUTTER) | Flutter | ⭐ 15 | COVID-19 information hub for Central Sulawesi — plus [web](https://github.com/ryanaidilp/PICO_SULTENG_WEB), [API](https://github.com/ryanaidilp/PICO_SULTENG_API), and [native Android](https://github.com/ryanaidilp/PICO_SULTENG_Android) siblings |
+
+## 🤝 Open Source Contributions
+
+Beyond my own packages, I contribute fixes and file detailed bug reports upstream on widely-used Flutter/Dart packages:
+
+| Package | Stars | Contribution |
+|---|---|---|
+| [permission_handler](https://github.com/Baseflow/flutter-permission-handler) | 2.1k | Found & fixed a production crash caused by a double-invoked completion handler — [issue #1565](https://github.com/Baseflow/flutter-permission-handler/issues/1565), [PR #1566](https://github.com/Baseflow/flutter-permission-handler/pull/1566) |
+| [file_picker](https://github.com/vicajilau/flutter_file_picker) | 1.5k | Proposed and shipped removal of an unnecessary Apache Tika dependency on Android to cut app size — [issue #2101](https://github.com/vicajilau/flutter_file_picker/issues/2101), [PR #2104](https://github.com/vicajilau/flutter_file_picker/pull/2104)/[#2105](https://github.com/vicajilau/flutter_file_picker/pull/2105)/[#2106](https://github.com/vicajilau/flutter_file_picker/pull/2106) |
+| [envied](https://github.com/petercinibulk/envied) | 229 | Shipped `useConstantCase`, a merged feature to auto-convert env field names to `CONSTANT_CASE` — [PR #42](https://github.com/petercinibulk/envied/pull/42), [PR #74](https://github.com/petercinibulk/envied/pull/74) |
+| [build_runner](https://github.com/dart-lang/build) | 866 | Diagnosed and reported an analyzer resolver bug breaking `source_gen`-based codegen — [issue #5075](https://github.com/dart-lang/build/issues/5075) |
+| [injectable](https://github.com/Milad-Akarie/injectable) | 625 | Reported a DI codegen regression after upgrade — [issue #445](https://github.com/Milad-Akarie/injectable/issues/445) |
+| [buttons_tabbar](https://github.com/afonsocraposo/buttons_tabbar) | 110 | Merged style refactor improving toggle-button spacing — [PR #44](https://github.com/afonsocraposo/buttons_tabbar/pull/44) |
+| [dio_smart_retry](https://github.com/rodion-m/dio_smart_retry) | 105 | Reported an `onError` handling bug on newer Dio versions — [issue #38](https://github.com/rodion-m/dio_smart_retry/issues/38) |
+| [keyboard_attachable](https://github.com/drogel/keyboard_attachable) | 63 | Merged Gradle/Manifest compatibility updates — [PR #31](https://github.com/drogel/keyboard_attachable/pull/31) |
+
 ## 📃 Latest Articles
 
 <img align='right' src="https://media4.giphy.com/media/QGoxu7KIgMPvKFP3ze/giphy_s.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Code Efficiency : Replace String Replacement with Dart String Interpolation](https://medium.com/@ryanaidilp/improving-code-efficiency-with-dart-string-interpolation-and-replacement-cf2f7b94580f)
+- [Someone Cloned My Open Source Templates and Sold Them](https://medium.com/@ryanaidilp/someone-cloned-my-open-source-templates-and-sold-them-f561cfa3dff5)
+- [Building an Open-Source E-Commerce Scraper & Analytics Dashboard for Indonesia's 2026 Economic Census](https://medium.com/@ryanaidilp/building-an-open-source-e-commerce-scraper-analytics-dashboard-for-indonesias-2026-economic-f43ad31f8475)
+- [Automating Flutter APK Size Analysis in Pull Requests: A Complete CI/CD Guide](https://medium.com/@ryanaidilp/automating-flutter-apk-size-analysis-in-pull-requests-a-complete-ci-cd-guide-c79fa171d4fe)
+- [Building a High-Performance Statistical Dashboard with DuckDB-WASM and Apache Arrow](https://medium.com/@ryanaidilp/building-a-high-performance-statistical-dashboard-with-duckdb-wasm-and-apache-arrow-d6178aeaae6d)
+- [Streamlining Flutter Development with Mason and BrickHub](https://medium.com/@ryanaidilp/streamlining-flutter-development-with-mason-and-brickhub-21c5020e9761)
 - [Migrating from GetX: Boosting Flutter App Development Efficiency — Part 1 : Architecture and Folder Structure](https://medium.com/@ryanaidilp/migrating-from-getx-boosting-flutter-app-development-efficiency-part-1-1a33fd44a3a9)
-- [Migrating from GetX: Boosting Flutter App Development Efficiency — Part 2 : Routing](https://medium.com/@ryanaidilp/migrating-from-getx-boosting-flutter-app-development-efficiency-part-2-routing-c146a09bc5fa)
-- [Migrating from GetX: Boosting Flutter App Development Efficiency — Part 3 : Dependency Injection](https://medium.com/@ryanaidilp/migrating-from-getx-boosting-flutter-app-development-efficiency-part-3-dependency-injection-50693e8fed2e)
-- [Proof of Concept (POC) : Kenapa Tidak Disarankan untuk Share Unsigned APK untuk Penggunaan Publik?](https://ryanaidilp.notion.site/Proof-of-Concept-POC-Kenapa-Tidak-Disarankan-untuk-Share-Unsigned-APK-untuk-Penggunaan-Publik-7d1ebbe3c83e4ffd904ed1de4808e0f7)
 <!-- BLOG-POST-LIST:END -->
 
 
